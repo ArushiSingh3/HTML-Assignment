@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arushi Singh</title>
+</head>
+<body>
+<h1 align="center">K-POP STORE</h1>
+<hr size="3" noshade="0">
+<br>
+<center><img src="merch/merch.jpg" width="1400" </center>
+<br>
+<h1 align="center"> [MERCH] ARTIST-MADE COLLECTION BY BTS</h1>
+<hr size="2">
+<p><h3>Greetings from K-pop Store , Official merch of BTS</h3>
+</p>
+<br>
+<table>
+    <tr>
+    <td><h2>Army Joggers Pants by RM</h2><img src="rm/PbyRm.jpeg" width="600" height="400"><br><h2>$82.68</h2></td>
+    <td><h2>Good Day Pajamas by Jin</h2><img src="jin/pbyJin - Copy.jpg" width="400" height="500"><br><h2>$117.00</h2></td>
+    </tr>
+    <tr>
+    <td><h2>Black Note and Cover Set by Suga</h2><br><img src="suga/BbySuga.jpg" width="600" height="400"><br><h2>$64.10</h2> </td>
+    <td><h2>Side by Side MINI Bag by J-Hope</h2><br><img src="bbyjhope/bagbyJhope.webp" width="400" height="500"><br><h2>$116.12</h2></td>  
+    </tr>
+    <tr>
+        <td><h2>Mute Boston Bag by V</h2><br><img src="bagbyv/bagbyV.webp" width="600" height="400"><br><h2>$153.28</h2> </td>
+        <td><h2>With Hoody by Jimin</h2><br><img src="jimin/jimin.jpg" width="400" height="500"><br><h2>$91.97</h2></td>
+    </tr>
+    <tr>
+        <td><h2>ARMYST Zip up Hoody</h2><br><img src="jk/HbyJk.jpg" width="600" height="400"><br><h2>$125.41</h2> </td>
+    </tr>
+</table>
+<hr size="3">
+<h2>PRE-ORDER INFORMATION</h2>
+<p><h3>Due to popular demand , K-Pop store held rounds for pre-order for 'Artist-Made Collection By BTS' merch on Monday, March 6, 2023 at 5:00 PM</h3> </p>
+<h2 align="left">MERCH DATES AND SHIPPING DETAILS</h2>
+<ol type="1">
+ <li align="left">You can buy a quantity of 2 for each product </li>
+<li align="left">In March 2023, the Artist-Made merch collection by BTS will be released consecutively, by member. </li>
+</ol>
+<h2>For pre-order</h2>
+<h3>Scheduled Shipping Start Date<br>03/06/2023 ~ 03/20/2023</h3></p>
+<form action="backend.php">
+    <div><input type="submit" value="Buy Now" > </div>
+</form>
+<br>
+<form action="backend.php">
+<label for="mylogin" ></label>
+<div>
+Log-In : <input type="text" name="mylogin" >
+</div>
+<br>
+<label for="password" ></label>
+<div>
+Password : <input type="text" name="password" >
+</div>
+</form>
+</body>
+<hr size="4">
+</html>
+
